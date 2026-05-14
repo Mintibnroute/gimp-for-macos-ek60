@@ -1,4 +1,4 @@
-# 
+# Enhance Gimp for macOS with premium Plugin for Gimp for macOS - blend modes and content-aware fill, the #1 plugin. Includes blend modes and content-aware fill for a smoother and
 
 
 
